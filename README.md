@@ -4,7 +4,14 @@
 
 This project demonstrates how Power BI and SQL Server can be used to analyze cybersecurity risks across organizational assets.
 
-The dashboard provides an executive view of:
+
+## Project Structure
+- `Dashboard/` - Power BI files
+- `Database/` - SQL scripts  
+- `Images/` - Screenshots
+- `Report/` - Project documentation and findings
+  
+## The dashboard provides an executive view of:
 
 - Total Assets
 - Total Vulnerabilities
