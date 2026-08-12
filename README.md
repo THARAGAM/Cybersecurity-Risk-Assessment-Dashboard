@@ -26,8 +26,8 @@ The dashboard provides an executive view of:
 ---
 
 ## Dashboard Preview
+<img width="1724" height="764" alt="Screenshot 2026-08-06 194445" src="https://github.com/user-attachments/assets/6147734d-852b-4794-8b24-0a15bb108a15" />
 
-(Add your dashboard screenshot here)
 
 ---
 
